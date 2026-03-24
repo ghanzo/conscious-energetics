@@ -26,7 +26,7 @@ This file catalogs all source materials, their approximate creation dates, and t
 | File | Date | Description |
 |---|---|---|
 | `conscious energetics gpt conversation.pdf` / `.md` | 2025-02-02 | Extended ChatGPT conversation. Develops Field/Form/Function triple, fractal triple architecture, Langan/Landry mappings, draft preface and chapters. Multiple outline revisions including "human story first" approach (later abandoned). |
-| `conscious energetics o3 first convo_.pdf` / `.md` | 2025-02-02 | ChatGPT o3 conversation. Develops Potential/Kinetic/Informational taxonomy, refined Ch 1 opening (etymology, everyday experience, myth of infinity), Ch 1 rewrite with Cause/Choice/Change as postulates. |
+| `conscious energetics o3 first convo_.pdf` / `.md` | 2025-02-25 | ChatGPT o3 conversation. Develops Potential/Kinetic/Informational taxonomy, refined Ch 1 opening (etymology, everyday experience, myth of infinity), Ch 1 rewrite with Cause/Choice/Change as postulates. **Latest AI conversation iteration.** |
 
 ### Date Unknown — Later Iterations
 
@@ -62,10 +62,13 @@ This file catalogs all source materials, their approximate creation dates, and t
 
 1. **Dec 2024** — Initial outline, glossary, appendix, preface notes
 2. **Jan 2025** — First full manuscript draft (Ch 1-9 + cosmic narrative + EROEI research)
-3. **Feb 2025** — Two major AI conversations refining:
+3. **Feb 2 2025** — GPT conversation refining:
    - Triadic architecture (Field/Form/Function, fractal triples)
+   - Langan and Landry mappings
+   - Multiple outline revisions
+4. **Feb 25 2025** — o3 conversation refining:
    - Energy taxonomy (Potential/Kinetic/Informational)
    - Chapter 1 opening and postulates
-   - Langan and Landry mappings
-4. **Date unclear** — Axiom refinement to final form ("Energy is / Energy opens choice / Energy becomes"), Landry modality corrections, thinker-based outline, polished chapter drafts (Ch 7-9)
-5. **Mar 2026** — Consolidation of all materials, new outline v1
+   - Cause/Choice/Change as postulates with perspectival mapping
+5. **Date unclear** — Axiom refinement to final form ("Energy is / Energy opens choice / Energy becomes"), Landry modality corrections, thinker-based outline, polished chapter drafts (Ch 7-9)
+6. **Mar 2026** — Consolidation of all materials, new outline v1
