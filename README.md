@@ -12,9 +12,9 @@ The book is organized in three parts, each reflecting a dimension of energy:
 
 ## Repository
 
-- `draft/` — Working outlines, bibliography, and source manifest
-- `Resources/` — Reference materials
-- Root — Source documents and conversation logs from the development process
+- `outline/` — Working outlines, bibliography, and source manifest
+- `source/` — Original drafts, conversation logs, and notes from the development process
+- `external resources/` — Reference texts (Landry, Langan)
 
 ## Current Status
 
